@@ -620,13 +620,25 @@ p {
     margin: 12px
 }
 
-.ranking-img {
-    background: url(../images/lp_dog/ranking_img_portrait.webp) no-repeat;
+.review-img {
     background-size: contain;
     width: auto;
     height: 93px;
     background-position-x: center
 }
+.review-img-bg-1 {
+    background-image: url(../images/lp_dog/review_img_1_portrait.webp);
+    background-repeat: no-repeat;
+}
+.review-img-bg-2 {
+    background-image: url(../images/lp_dog/review_img_2_portrait.webp);
+    background-repeat: no-repeat;
+}
+.review-img-bg-3 {
+    background-image: url(../images/lp_dog/review_img_3_portrait.webp);
+    background-repeat: no-repeat;
+}
+
 
 .ranking-panel-text {
     font-weight: 400;
@@ -911,12 +923,22 @@ p {
         margin: 12px
     }
 
-    .ranking-img {
-        background: url(../images/lp_dog/ranking_img_portrait.webp) no-repeat;
-        background-size: contain;
+    .review-img {
         width: auto;
         height: 93px;
         background-position-x: center
+    }
+    .review-img-bg-1 {
+        background-image: url(../images/lp_dog/review_img_1_portrait.webp);
+        background-repeat: no-repeat;
+    }
+    .review-img-bg-2 {
+        background-image: url(../images/lp_dog/review_img_2_portrait.webp);
+        background-repeat: no-repeat;
+    }
+    .review-img-bg-3 {
+        background-image: url(../images/lp_dog/review_img_3_portrait.webp);
+        background-repeat: no-repeat;
     }
 
     .ranking-panel-text {
@@ -1169,12 +1191,23 @@ p {
         margin: 12px
     }
 
-    .ranking-img {
-        background-image: url(../images/lp_dog/ranking_img_portrait.webp);
-        background-size: contain;
+    .review-img {
         width: auto;
         height: 93px;
         background-position: center
+    }
+
+    .review-img-bg-1 {
+        background-image: url(../images/lp_dog/review_img_1_portrait.webp);
+        background-repeat: no-repeat;
+    }
+    .review-img-bg-2 {
+        background-image: url(../images/lp_dog/review_img_2_portrait.webp);
+        background-repeat: no-repeat;
+    }
+    .review-img-bg-3 {
+        background-image: url(../images/lp_dog/review_img_3_portrait.webp);
+        background-repeat: no-repeat;
     }
 
     .ranking-panel-text {
@@ -1427,12 +1460,23 @@ p {
         margin: 12px
     }
 
-    .ranking-img {
-        background-image: url(../images/lp_dog/ranking_img_portrait.webp);
-        background-size: contain;
+    .review-img {
         width: auto;
         height: 93px;
         background-position: center
+    }
+
+    .review-img-bg-1 {
+        background-image: url(../images/lp_dog/review_img_1_portrait.webp);
+        background-repeat: no-repeat;
+    }
+    .review-img-bg-2 {
+        background-image: url(../images/lp_dog/review_img_2_portrait.webp);
+        background-repeat: no-repeat;
+    }
+    .review-img-bg-3 {
+        background-image: url(../images/lp_dog/review_img_3_portrait.webp);
+        background-repeat: no-repeat;
     }
 
     .ranking-panel-text {
@@ -1696,13 +1740,24 @@ p {
         margin: 8px 0
     }
 
-    .ranking-img {
-        background-image: url(../images/lp_dog/ranking_img_landscape.webp);
-        background-size: contain;
+    .review-img {
         width: auto;
         height: 60px;
         background-position: center;
         margin-bottom: 16px
+    }
+
+    .review-img-bg-1 {
+        background-image: url(../images/lp_dog/review_img_1_landscape.webp);
+        background-repeat: no-repeat;
+    }
+    .review-img-bg-2 {
+        background-image: url(../images/lp_dog/review_img_2_landscape.webp);
+        background-repeat: no-repeat;
+    }
+    .review-img-bg-3 {
+        background-image: url(../images/lp_dog/review_img_3_landscape.webp);
+        background-repeat: no-repeat;
     }
 
     .ranking-panel-text {
