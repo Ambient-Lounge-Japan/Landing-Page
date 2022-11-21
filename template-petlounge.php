@@ -432,7 +432,7 @@
             </div>
             <div class="col-md-3 col-sm-8 text-center">
                 <img class="w-100" src="<?php echo get_stylesheet_directory_uri() . "/"; ?>/lp-assets/images/lp_dog/step_img_2.webp" alt=""/>
-                <p class="post-desc-text">ご注文を受けてから日ラボで作成しお届け</p>
+                <p class="post-desc-text">ご注文を受けてから日本ラボで作成しお届け</p>
                 <p class="post-details-text">日本人スタッフによる<br>最高品質の製造</p>
             </div>
             <div class="col-md-3 col-sm-8 text-center">
